@@ -1,0 +1,89 @@
+.geral{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(206, 206, 206, 0.53);
+}
+.p-3{
+    background-color: rgba(206, 206, 206, 0.05);
+}
+.titulo{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.login{
+    margin-left: 1300px;
+    margin-bottom: 20px;
+}
+.bemvindo{
+    margin-left: 1150px;
+    float:left;
+}
+.btn_logout{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.nav{
+    background-color: rgba(255, 255, 255, 0.812);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav-item{
+    background-color: rgb(113, 113, 113);
+}
+.nav-link{
+    color: white;
+}
+.table{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.home{
+    margin-left: 150px;
+}
+.div-login{
+    width: 800px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    padding: 1px;
+}
+#submit-btn-cadastro{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+#submit-btn-login{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.login_{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.home-cadastro{
+    margin-left: 720px;
+}
+#table-update{
+    margin-top: 20px;
+    margin-left: 470px;
+    margin-bottom: 40px;
+}
+.table-dark th,td{
+    text-align: center;
+    padding: 8px;
+}
+.home-update{
+    margin-left: 700px;
+}
+.confirmar-cadastro{
+    margin-top: 20px;
+    margin-left: 630px;
+
+}
